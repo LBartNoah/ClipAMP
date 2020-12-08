@@ -22,3 +22,6 @@ Can't Run ClipAMP!
 
 Not Showing In OBS Studio!
 > Make sure program is running and the text file is selected to show in OBS Studio.
+
+Random Error After Opening And Trying To Write To File!
+> Ignore this error. We are currently in the process of fixing it for version 0.0.0.2. Just click the "Continue" button and it should go away.
