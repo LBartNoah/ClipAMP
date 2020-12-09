@@ -28,5 +28,4 @@ Not Showing In OBS Studio!
 Random Error After Opening And Trying To Write To File!
 > ~~Ignore this error. We are currently in the process of fixing it for version 0.0.0.2. Just click the "Continue" button and it should go away. You should also avoid editing the file while ClipAMP is open and avoid having it opened. ClipAMP requires it to be free for writing. This error will soon be defaulted to a notice.~~
 
-This should of been fixed in update v0.0.0.2. Please update ClipAMP in the releases link.
-If the error still exists please pull a issue in the repository so we can be notified.
+This should of been fixed in update v0.0.0.2. Please update ClipAMP in the releases link. If the error still exists please pull a issue in the repository so we can be notified and update ClipAMP to fix the issue. We are constantly updating the program and providing fixes until we no longer can.
