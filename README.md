@@ -8,7 +8,7 @@ Simply download the latest release via https://github.com/LBartNoah/ClipAMP/rele
 - Download Latest Version
 - Run The App
 - Open OBS Studio
-- Read Text From File (select "WinampSong.txt" which should be in directory the program is in)
+- Read Text From File (select "WinampSong.txt" which should be in directory the program is in - Newer versions use "WinampCurrentSong.txt")
 - Success!
 
 Installation made be different in newer versions. Anything above version 1 now changes the text file to WinampCurrentSong.txt. The program may also be different during newer updates. This README was updated for version 0.0.0.1 and will continue to stay this way. Version 2 redesigns everything and newer versions might do the same so output options and other stuff may be removed for stability purposes.
