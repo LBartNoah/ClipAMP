@@ -1,6 +1,6 @@
 # ClipAMP
 The easy solution for showing the currently playing song from Winamp and transfering it to a text file. Updated and supported for Winamp's latest release and will continue to support Winamp. That's what it's made for and what we want it for.
-> ClipAMP Version: 0.0.0.1
+> ClipAMP Version: 0.0.0.2
 
 # Installation
 Simply download the latest release via https://github.com/LBartNoah/ClipAMP/releases and open the program. The program will detect if a text file named "WinampSong.txt" exists and if not, will create it for you. The tool when then get the Winamp currently playing song information and display it into a textbox and then a text file. Easily modify the text to remove spaces, show watermark for Winamp, and preview your changes within the app itself.
@@ -24,4 +24,6 @@ Not Showing In OBS Studio!
 > Make sure program is running and the text file is selected to show in OBS Studio.
 
 Random Error After Opening And Trying To Write To File!
-> Ignore this error. We are currently in the process of fixing it for version 0.0.0.2. Just click the "Continue" button and it should go away. You should also avoid editing the file while ClipAMP is open and avoid having it opened. ClipAMP requires it to be free for writing. This error will soon be defaulted to a notice.
+> -Ignore this error. We are currently in the process of fixing it for version 0.0.0.2. Just click the "Continue" button and it should go away. You should also avoid editing the file while ClipAMP is open and avoid having it opened. ClipAMP requires it to be free for writing. This error will soon be defaulted to a notice.-
+
+This should of been fixed in update v0.0.0.2. Please update ClipAMP in the releases link.
