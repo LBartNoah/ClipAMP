@@ -2,16 +2,16 @@
 The easy solution for showing the currently playing song from Winamp and transfering it to a text file. Updated and supported for Winamp's latest release and will continue to support Winamp. That's what it's made for and what we want it for.
 > ClipAMP Version: 0.0.0.2
 
-# Installation (Old Guide For Version 1)
-Simply download the latest release via https://github.com/LBartNoah/ClipAMP/releases and open the program. The program will detect if a text file named "WinampSong.txt" exists and if not, will create it for you. The tool when then get the Winamp currently playing song information and display it into a textbox and then a text file. Easily modify the text to remove spaces, show watermark for Winamp, and preview your changes within the app itself.
+# Installation
+Simply download the latest release via https://github.com/LBartNoah/ClipAMP/releases and open the program. The program will detect if a text file named "WinampSong.txt" exists or check in newer versions if "WinampCurrentSong.txt" exists and if not, will create it for you. The tool when then get the Winamp currently playing song information and display it into a textbox and then a text file. Easily modify the text in version 1 to remove spaces, show watermark for Winamp, and preview your changes within the app itself. Version 2 features more stability and fixes and provides better information. Newer versions are more stable and less likely to cause problems so please update ClipAMP or check here for updates ever few weeks.
 
-- Download Latest Version
+- Download Latest Version (Recommended)
 - Run The App
 - Open OBS Studio
-- Read Text From File (select "WinampSong.txt" which should be in directory the program is in - Newer versions use "WinampCurrentSong.txt")
+- Read Text From File (Either "WinampSong.txt" or "WinampCurrentSong.txt" depending on ClipAMP version.)
 - Success!
 
-Installation made be different in newer versions. Anything above version 1 now changes the text file to WinampCurrentSong.txt. The program may also be different during newer updates. This README was updated for version 0.0.0.1 and will continue to stay this way. Version 2 redesigns everything and newer versions might do the same so output options and other stuff may be removed for stability purposes.
+Installation made be different in newer versions. Anything above version 1 now changes the text file to WinampCurrentSong.txt. The program may also be different during newer updates. Version 2 redesigns everything and newer versions might do the same so output options and other stuff may be removed for stability purposes.
 
 # Updates And Support
 We will be constantly updating and fixing when we get the chance. We currently provide limited support in which we show many errors you might face and help you solve them here. Here are a few fixes to some errors:
