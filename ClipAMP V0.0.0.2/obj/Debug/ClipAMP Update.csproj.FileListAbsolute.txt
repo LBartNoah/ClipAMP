@@ -1,0 +1,9 @@
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\bin\Debug\ClipAMP Update.exe
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\bin\Debug\ClipAMP Update.pdb
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\obj\Debug\ClipAMP Update.csprojAssemblyReference.cache
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\obj\Debug\ClipAMP_Update.GUI.resources
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\obj\Debug\ClipAMP_Update.Properties.Resources.resources
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\obj\Debug\ClipAMP Update.csproj.GenerateResource.cache
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\obj\Debug\ClipAMP Update.csproj.CoreCompileInputs.cache
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\obj\Debug\ClipAMP Update.exe
+C:\Users\Noah Bartley\source\repos\ClipAMP Update\ClipAMP Update\obj\Debug\ClipAMP Update.pdb
