@@ -11,7 +11,7 @@ Simply download the latest release via https://github.com/LBartNoah/ClipAMP/rele
 - Read Text From File (select "WinampSong.txt" which should be in directory the program is in)
 - Success!
 
-Installation made be different in newer versions. Anything above version 1 now changes the text file to WinampCurrentSong.txt.
+Installation made be different in newer versions. Anything above version 1 now changes the text file to WinampCurrentSong.txt. The program may also be different during newer updates. This README was updated for version 0.0.0.1 and will continue to stay this way. Version 2 redesigns everything and newer versions might do the same so output options and other stuff may be removed for stability purposes.
 
 # Updates And Support
 We will be constantly updating and fixing when we get the chance. We currently provide limited support in which we show many errors you might face and help you solve them here. Here are a few fixes to some errors:
